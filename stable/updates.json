@@ -1,0 +1,17 @@
+{
+  "format": "drynoy.updates",
+  "schemaVersion": 2,
+  "android": {
+    "version": "0.11.5",
+    "versionCode": 84,
+    "packageId": "com.drynoy.player.flutter",
+    "channel": "stable",
+    "mandatory": false,
+    "url": "https://github.com/vampire190588-hub/drynoy-updates/releases/download/stable-v0.11.5-84/Drynoy-stable-0.11.5-84.apk",
+    "sha256": "7098010e73f909a3f0851e301a0b180278b1f635b750472782d2f5324ce41440",
+    "sizeBytes": 77954284,
+    "notes": "Исправления и улучшения"
+  },
+  "sourceCommit": "efba8ff4ee47bc1c74bdda6e42679f45210a4b0d",
+  "buildRunId": "43309256625"
+}
