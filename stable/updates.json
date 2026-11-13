@@ -2,16 +2,16 @@
   "format": "drynoy.updates",
   "schemaVersion": 2,
   "android": {
-    "version": "0.11.5",
-    "versionCode": 84,
+    "version": "0.11.6",
+    "versionCode": 85,
     "packageId": "com.drynoy.player.flutter",
     "channel": "stable",
     "mandatory": false,
-    "url": "https://github.com/vampire190588-hub/drynoy-updates/releases/download/stable-v0.11.5-84/Drynoy-stable-0.11.5-84.apk",
-    "sha256": "7098010e73f909a3f0851e301a0b180278b1f635b750472782d2f5324ce41440",
-    "sizeBytes": 77954284,
+    "url": "https://github.com/vampire190588-hub/drynoy-updates/releases/download/stable-v0.11.6-85/Drynoy-stable-0.11.6-85.apk",
+    "sha256": "ae13dc9aeb2404e48c3e91b83a2400d37a8836a94a0cdc6025d547821c279891",
+    "sizeBytes": 77954280,
     "notes": "Исправления и улучшения"
   },
-  "sourceCommit": "efba8ff4ee47bc1c74bdda6e42679f45210a4b0d",
-  "buildRunId": "43309256625"
+  "sourceCommit": "2009d3e593c2837a9b80d70f6ce922a9f8def628",
+  "buildRunId": "43378502438"
 }
